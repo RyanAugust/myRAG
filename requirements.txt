@@ -1,0 +1,13 @@
+python-dotenv
+torch
+transformers
+langchain
+langchain-community
+langchain_huggingface
+sentence_transformers
+bitsandbytes
+accelerate>=0.26.0
+pypdf
+chromadb
+InstructorEmbedding
+sentence-transformers #==2.2.2
